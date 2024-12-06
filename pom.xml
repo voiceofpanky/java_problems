@@ -1,0 +1,9 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>java_problems</groupId>
+  <artifactId>java_problems</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>pksao</name>
+  <description>java-problems</description>
+  <url>https://github.com/voiceofpanky/java_problems.git</url>
+</project>
