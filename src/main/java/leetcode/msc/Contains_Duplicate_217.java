@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class Contains_Duplicate_217 {
     public static void main (String[] arg){
-        int[] arr ={7,1,5,3,6,4,8};
+        int[] arr ={7,1,5,7,6,4,8};
         System.out.print(checkDuplicate(arr));
 
     }
