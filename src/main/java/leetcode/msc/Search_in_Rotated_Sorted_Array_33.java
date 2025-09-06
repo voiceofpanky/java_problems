@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.msc;
 
 public class Search_in_Rotated_Sorted_Array_33 {
     public static void main(String args[]){

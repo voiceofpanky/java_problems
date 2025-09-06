@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.msc;
 
 public class MisingNumber_268 {
 

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.msc;
 
 public class MaximumProductSubArray_152 {
     public static void main (String[] arg){
