@@ -6,4 +6,13 @@
   <name>pksao</name>
   <description>java-problems</description>
   <url>https://github.com/voiceofpanky/java_problems.git</url>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.pdfbox</groupId>
+      <artifactId>pdfbox</artifactId>
+      <version>2.0.30</version>
+    </dependency>
+  </dependencies>
+
 </project>
