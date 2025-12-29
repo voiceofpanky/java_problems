@@ -2,14 +2,14 @@ package leetcode.easy;
 
 import java.util.*;
 
-class Solution {
+class ValidAnagarm_242 {
     public boolean isAnagram(String s, String t) {
         if(s.length() !=t.length())
         {
             return false;
         }
-               HashMap<Character, Integer> countS = new HashMap<>();
-             HashMap<Character, Integer> countT = new HashMap<>();
+            HashMap<Character, Integer> countS = new HashMap<>();
+            HashMap<Character, Integer> countT = new HashMap<>();
 
             for(int i=0;i<s.length();i++)
             {
@@ -22,7 +22,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        ValidAnagarm_242 sol = new ValidAnagarm_242();
         String s = "anagram";
         String t = "nagaram";
         System.out.println(sol.isAnagram(s, t)); // Output: true

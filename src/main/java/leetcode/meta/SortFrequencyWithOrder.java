@@ -1,5 +1,4 @@
 
-//Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
 package leetcode.meta;
 import java.util.*;
 public class SortFrequencyWithOrder {
